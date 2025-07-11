@@ -2,7 +2,7 @@
   <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
   <p/>
-Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología, el desarrollo de software y la automatización mediante scripts. Me especializo en backend y frontend, utilizando tecnologías modernas para construir soluciones reales, escalables y de alta calidad, aplicando principios de arquitectura de software y Clean Code.
+Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología, el desarrollo de software y la automatización mediante scripts. Me especializo en backend y frontend, utilizando tecnologías modernas para construir soluciones reales, escalables y con calidad, aplicando principios de arquitectura de software y Clean Code.
 
 ---
 
