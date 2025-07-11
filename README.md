@@ -1,5 +1,8 @@
-# 👋 ¡Hola! Soy Edwin Baquiax
+# 👋 ¡Hola! Soy Edwin Baquiax 
 
+  <p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+  <p/>
 Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología, el desarrollo de software y la automatización mediante scripts. Me especializo en backend y frontend, utilizando tecnologías modernas para construir soluciones reales, escalables y de alta calidad, aplicando principios de arquitectura de software y Clean Code.
 
 ---
@@ -55,8 +58,8 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología, el des
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEdwinFBI&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEdwinFBI&layout=compact&theme=radical&hide=html" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEdwinFBI&show_icons=true&theme=ambient_gradient&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEdwinFBI&layout=compact&theme=ambient_gradient&hide=html" />
 </p>
 
 ---
@@ -64,6 +67,8 @@ Soy estudiante de Ingeniería en Sistemas, apasionado por la tecnología, el des
 ## 🔥 Racha de contribuciones
 
 <p align="center">
+
+
   <img src="https://streak-stats.demolab.com?user=SEdwinFBI&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
